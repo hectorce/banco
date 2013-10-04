@@ -36,6 +36,11 @@ class banco {
         
     }
     
+    public function validador_codigo($args) {
+        
+        
+    }
+    
     public function __destruct() {
         echo nl2br("\n");
         echo "tchau";
